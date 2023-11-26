@@ -1,3 +1,3 @@
 # augmented-reality-using-openCV
-<h2> in this project we projects the video of sylvester cat on the backcover of phone with proper alignment with live webcam </h2>
-<h2> to show the implimentation of augmented reality in real life projects</h2>
+<h2> In this project, we display a video of Sylvester Cat on the back cover of a phone, ensuring it aligns correctly using a live webcam </h2>
+<h2> This project is committed to demonstrating the implementation of augmented reality </h2>
